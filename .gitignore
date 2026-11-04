@@ -1,0 +1,7 @@
+data/*.csv
+analysis/.Rhistory
+analysis/.RData
+analysis/.RProj.user/
+analysis/.Ruserdata
+analysis/figures/*.png
+
